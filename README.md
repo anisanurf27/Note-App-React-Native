@@ -1,2 +1,5 @@
-# Note-App-React-Native
-Tugas Akhir Pemrograman Perangkat Bergerak
+TUGAS AKHIR PEMROGRAMAN PERANGKAT BERGERAK
+
+Nama  : ANISA NUR FADHILAH
+NIM   : 3.34.21.0.05
+Kelas : IK-2A
